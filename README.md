@@ -29,7 +29,8 @@
 * Section 26: [JAVA 8] Streams API
 * Section 27: [JAVA 8] Optional to deal with nulls in Java
 * Section 28: MultiThreading in Java
-* Section 28: Other prominent new features from Java 22
+* Section 29: Java 22, 23 and 24 new features
+* Section 30: Java 25 new features
   
 ## Important Links
 - Online jshell - https://tryjshell.org
@@ -45,7 +46,7 @@
 - IntelliJ IDEA installation - https://www.jetbrains.com/idea/
 - IntelliJ Debugging - https://www.jetbrains.com/help/idea/debugging-code.html
 - Java Documentation - https://docs.oracle.com/en/java/
-- Java 21 Documentation - https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+- Java 25 Documentation - https://docs.oracle.com/en/java/javase/25/docs/api/index.html
 - Javadoc tutorial - https://www.oracle.com/in/technical-resources/articles/java/javadoc-tool.html
 - IntelliJ Javadoc reference - https://www.jetbrains.com/help/idea/javadocs.html
 
